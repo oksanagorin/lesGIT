@@ -1,1 +1,2 @@
 hello in feature
+line 2
